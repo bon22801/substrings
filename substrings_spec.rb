@@ -1,6 +1,6 @@
 require_relative "substrings"
 
-describe "stock_picker" do
+describe "substrings" do
   it "should return a hash listing each substring" do
     dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
  
